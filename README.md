@@ -30,8 +30,8 @@ O Arquivo **(PessoaService.cs)** executa :
 | Tecnologia | Descrição |
 |-----------|-----------|
 | **Dapper** |  Utilização de mapeamento rápido de resultados de consultas SQL diretas pela aplicação. |
-| **Resource** | Armazenar em arquivo informações de maneira estruturada |
 | **Mapper** | Padrão de projeto utilizado para copiar dados de um objeto para outro objeto de tipo diferente de forma automática |
+| **Resource** | Armazenar em arquivo informações de maneira estruturada |
 
 #### 💬 Requisitos do Projeto
 - Para executar a aplicação é necessário executar o Script do MySQL.
